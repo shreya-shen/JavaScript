@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.nav-center{
+    background-color:beige;
+    display: flex;
+    align-items: center;
+    height: 10vh;
+
+}
+
+h3{
+    color: darkcyan;
+    margin-left: 20px;
+    margin-right: 75vw;
+    
+}
+
+a{
+    margin: 10px;
+    display: inline;
+}
+
+ul{
+    list-style-type: none;
+}
+
+main{
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    text-align: center;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.btn{
+  margin: 10px 25vh 10px 25vh;
+  width: 100px;
+  height: 50px;
+  background-color:transparent;
+  border: 2px solid black;
+  border-radius: 10px;
+}
